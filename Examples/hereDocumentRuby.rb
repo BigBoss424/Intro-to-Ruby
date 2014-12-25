@@ -1,11 +1,11 @@
-#"Here Document" refers to build strings from multiple lines. Following#
-#a << you can specify a string or an identifier to terminate the string# 
-#literal, and all lines following the current line up to the terminator are#
-#the value of the string.# 
+#"Here Document" refers to build strings from multiple lines. Following
+#a << you can specify a string or an identifier to terminate the string
+#literal, and all lines following the current line up to the terminator are
+#the value of the string.
 
-#If the terminator is quoted, the type of quotes determines the type of the# 
-#line oriented string literal. Notice there must be no space between << and #
-#terminator #
+#If the terminator is quoted, the type of quotes determines the type of the 
+#line oriented string literal. Notice there must be no space between << and 
+#terminator 
 
 #!/usr/bin/ruby -w
 
